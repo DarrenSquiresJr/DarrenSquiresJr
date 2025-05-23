@@ -1,7 +1,7 @@
 # 💫 About Me:
 Welcome to my page! My name is Darren. <br>I am a Computer Science student from the University of Central Florida.<br>Currently working on a team-based project called "Kanso". 
 
-## My LinkedIn:
+# My LinkedIn:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/darrensquiresjr) 
 
 # 💻 Tech Stack:
